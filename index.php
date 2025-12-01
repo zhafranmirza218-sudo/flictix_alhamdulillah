@@ -42,7 +42,7 @@ if ($user_id) {
                 <span>FLICTIX</span>
             </div>
             <ul class="nav-links">
-                <li><a href="#home">Home</a></li>
+                <li><a href="#home">Homeeee</a></li>
                 <li><a href="#films">Films</a></li>
                 <li><a href="#popular">Popular</a></li>
                 <li><a href="list.php">My List</a></li>
