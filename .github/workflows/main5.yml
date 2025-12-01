@@ -7,7 +7,7 @@ on:
 
 jobs:
   deploy:
-    runs-on: [self-hosted, Linux, X64, laptop-mirja]   
+    runs-on: [self-hosted, Linux, X64 ,pano-laptop]   
 
     steps:
       - name: Test version
