@@ -4,7 +4,7 @@ services:
       context: .
       dockerfile: Dockerfile.nginx
     ports:
-      - "1234:80"
+      - "1235:80"
     volumes:
       - .:/var/www/myphpapp
     depends_on:
@@ -45,7 +45,7 @@ services:
   phpmyadmin:
     image: phpmyadmin/phpmyadmin
     ports:
-      - "8081:80"
+      - "8085:80"
     environment:
       PMA_HOST: flictix-mysql
       MYSQL_ROOT_PASSWORD: password
