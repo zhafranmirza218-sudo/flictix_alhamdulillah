@@ -39,10 +39,10 @@ if ($user_id) {
         <div class="navbar-left">
             <div class="logo">
                 <span>🎬</span>
-                <span>FLICTIX</span>
+                <span>FLICTIXX</span>
             </div>
             <ul class="nav-links">
-                <li><a href="#home">Homeeeeee</a></li>
+                <li><a href="#home">Homee</a></li>
                 <li><a href="#films">Films</a></li>
                 <li><a href="#popular">Popular</a></li>
                 <li><a href="list.php">My List</a></li>
