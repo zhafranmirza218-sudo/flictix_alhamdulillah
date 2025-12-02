@@ -62,7 +62,7 @@ if ($user_id) {
 
     <div class="hero">
         <div class="hero-content">
-            <h1>Dendam Malam Kelam</h1>
+            <h1>Dendam Malam Kelam saya</h1>
             <p>Fueled by his lust and greed, a husband murders his wife — but when her body vanishes from the morgue, paranoia mounts and haunting signs emerge.</p>
             <div class="hero-buttons">
                 <button class="btn btn-play">▶ Play</button>
