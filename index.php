@@ -39,7 +39,7 @@ if ($user_id) {
         <div class="navbar-left">
             <div class="logo">
                 <span>🎬</span>
-                <span>FLICTIXXX</span>
+                <span>FLICTIXE</span>
             </div>
             <ul class="nav-links">
 <<<<<<< HEAD
