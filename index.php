@@ -41,16 +41,13 @@ if ($user_id) {
                 <span>🎬</span>
                 <span> FLICTIX ASIX</span>
             </div>
-            <ul class="nav-links">
-<<<<<<< HEAD
-                <li><a href="#home">Homeeeeee</a></li>
-=======
-                <li><a href="#home">Homee</a></li>
->>>>>>> d7163ff (update nama)
-                <li><a href="#films">Films</a></li>
-                <li><a href="#popular">PopularS</a></li>
-                <li><a href="list.php">My List</a></li>
-            </ul>
+       <ul class="nav-links">
+    <li><a href="#home">Homee</a></li>
+    <li><a href="#films">Films</a></li>
+    <li><a href="#popular">PopularS</a></li>
+    <li><a href="list.php">My List</a></li>
+</ul>
+
         </div>
         <div class="navbar-right">
             <?php if (isset($_SESSION['user_id'])): ?>
