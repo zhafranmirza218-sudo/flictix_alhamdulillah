@@ -39,18 +39,22 @@ if ($user_id) {
         <div class="navbar-left">
             <div class="logo">
                 <span>🎬</span>
-                <span>FLICTIX</span>
+                <span>FLICTIXXX</span>
             </div>
             <ul class="nav-links">
+<<<<<<< HEAD
                 <li><a href="#home">Homeeeeee</a></li>
+=======
+                <li><a href="#home">Homee</a></li>
+>>>>>>> d7163ff (update nama)
                 <li><a href="#films">Films</a></li>
-                <li><a href="#popular">Popular</a></li>
+                <li><a href="#popular">PopularS</a></li>
                 <li><a href="list.php">My List</a></li>
             </ul>
         </div>
         <div class="navbar-right">
             <?php if (isset($_SESSION['user_id'])): ?>
-                <span class="user-welcome">Welcome, <?php echo $_SESSION['user_name'] ?? 'User'; ?></span>
+                <span class="user-welcome">Welcomes, <?php echo $_SESSION['user_name'] ?? 'User'; ?></span>
                 <a href="logout.php" class="logout-btn" onclick="return confirm('Apakah Anda yakin ingin logout?')">
                     Logout
                 </a>
